@@ -25,3 +25,4 @@
 | Programmers | 77485 | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | Swift | [:punch:](Programmers/행렬%20테두리%20회전하기.swift)
 | Programmers | 60057 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Swift | [:punch:](Programmers/문자열%20압축.swift)
 | Programmers | 64065 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Swift | [:punch:](Programmers/튜플.swift)
+| Programmers | 12973 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Swift | [:punch:](Programmers/짝지어%20제거하기.swift)
