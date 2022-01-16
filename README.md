@@ -26,3 +26,11 @@
 | Programmers | 60057 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | Swift | [:punch:](Programmers/문자열%20압축.swift)
 | Programmers | 64065 | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | Swift | [:punch:](Programmers/튜플.swift)
 | Programmers | 12973 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Swift | [:punch:](Programmers/짝지어%20제거하기.swift)
+| Programmers | 76502 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Swift | [:punch:](Programmers/괄호%20회전하기.swift)
+| Programmers | 42747 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Swift | [:punch:](Programmers/H-Index.swift)
+
+
+## BaekJoon
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
+| :---: | :---: | :---: | :---: | :---: |
+| BaekJoon | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | Swift | [:punch:](BaekJoon/유기농%20배추.swift)
