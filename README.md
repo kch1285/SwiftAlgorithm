@@ -28,6 +28,14 @@
 | Programmers | 12973 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | Swift | [:punch:](Programmers/짝지어%20제거하기.swift)
 | Programmers | 76502 | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | Swift | [:punch:](Programmers/괄호%20회전하기.swift)
 | Programmers | 42747 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | Swift | [:punch:](Programmers/H-Index.swift)
+| Programmers | 87946 | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946) | Swift | [:punch:](Programmers/피로도.swift)
+| Programmers | 12981 | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | Swift | [:punch:](Programmers/영어%20끝말잇기.swift)
+| Programmers | 72411 | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) | Swift | [:punch:](Programmers/메뉴%20리뉴얼.swift)
+| Programmers | 17683 | [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | Swift | [:punch:](Programmers/%5B3차%5D%20방금그곡.swift)
+| Programmers | 42586 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Swift | [:punch:](Programmers/기능개발.swift)
+| Programmers | 49993 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Swift | [:punch:](Programmers/스킬트리.swift)
+| Programmers | 49994 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Swift | [:punch:](Programmers/방문%20길이.swift)
+
 
 
 ## BaekJoon
