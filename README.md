@@ -35,6 +35,20 @@
 | Programmers | 42586 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | Swift | [:punch:](Programmers/기능개발.swift)
 | Programmers | 49993 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | Swift | [:punch:](Programmers/스킬트리.swift)
 | Programmers | 49994 | [방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) | Swift | [:punch:](Programmers/방문%20길이.swift)
+| Programmers | 42888 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | Swift | [:punch:](Programmers/오픈채팅방.swift)
+| Programmers | 87390 | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | Swift | [:punch:](Programmers/n%5E2%20배열%20자르기.swift)
+| Programmers | 12953 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | Swift | [:punch:](Programmers/N개의%20최소공배수.swift)
+| Programmers | 17677 | [[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | Swift | [:punch:](Programmers/%5B1차%5D%20뉴스%20클러스터링.swift)
+| Programmers | 42746 | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | Swift | [:punch:](Programmers/가장%20큰%20수.swift)
+
+
+##
+
+> ### Level 3
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
+| :---: | :---: | :---: | :---: | :---: |
+| Programmers | 43238 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Swift | [:punch:](Programmers/입국심사.swift)
+| Programmers | 49189 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Swift | [:punch:](Programmers/가장%20먼%20노드.swift)
 
 
 
