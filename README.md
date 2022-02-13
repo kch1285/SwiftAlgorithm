@@ -18,7 +18,7 @@
 | Programmers | 86051 | [없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | Swift | [:punch:](Programmers/없는%20숫자%20더하기.swift)
 | Programmers | 76501 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Swift | [:punch:](Programmers/음양%20더하기.swift)
 | Programmers | 92334 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | Swift | [:punch:](Programmers/신고%20결과%20받기.swift)
-
+| Programmers | 12977 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Swift | [:punch:](Programmers/소수%20만들기.swift)
 
 
 > ### Level 2
@@ -46,9 +46,8 @@
 | Programmers | 12905 | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | Swift | [:punch:](Programmers/가장%20큰%20정사각형%20찾기.swift)
 | Programmers | 84512 | [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512) | Swift | [:punch:](Programmers/모음%20사전.swift)
 | Programmers | 42587 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Swift | [:punch:](Programmers/프린터.swift)
-
-
-
+| Programmers | 12951 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Swift | [:punch:](Programmers/JadenCase%20문자열%20만들기.swift)
+| Programmers | 92341 | [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | Swift | [:punch:](Programmers/주차%20요금%20계산.swift)
 
 
 > ### Level 3
@@ -56,8 +55,9 @@
 | :---: | :---: | :---: | :---: | :---: |
 | Programmers | 43238 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Swift | [:punch:](Programmers/입국심사.swift)
 | Programmers | 49189 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | Swift | [:punch:](Programmers/가장%20먼%20노드.swift)
-
-
+| Programmers | 42627 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | Swift | [:punch:](Programmers/디스크%20컨트롤러.swift)
+| Programmers | 12914 | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | Swift | [:punch:](Programmers/멀리%20뛰기.swift)
+| Programmers | 77486 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | Swift | [:punch:](Programmers/다단계%20칫솔%20판매.swift)
 
 ## BaekJoon
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
