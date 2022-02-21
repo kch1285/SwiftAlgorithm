@@ -48,6 +48,11 @@
 | Programmers | 42587 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | Swift | [:punch:](Programmers/프린터.swift)
 | Programmers | 12951 | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | Swift | [:punch:](Programmers/JadenCase%20문자열%20만들기.swift)
 | Programmers | 92341 | [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | Swift | [:punch:](Programmers/주차%20요금%20계산.swift)
+| Programmers | 17687 | [[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | Swift | [:punch:](Programmers/%5B3차%5D%20n진수%20게임.swift)
+| Programmers | 70129 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Swift | [:punch:](Programmers/이진%20변환%20반복하기.swift)
+| Programmers | 12980 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Swift | [:punch:](Programmers/점프와%20순간%20이동.swift)
+| Programmers | 42842 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | Swift | [:punch:](Programmers/카펫.swift)
+
 
 
 > ### Level 3
@@ -58,6 +63,12 @@
 | Programmers | 42627 | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | Swift | [:punch:](Programmers/디스크%20컨트롤러.swift)
 | Programmers | 12914 | [멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | Swift | [:punch:](Programmers/멀리%20뛰기.swift)
 | Programmers | 77486 | [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | Swift | [:punch:](Programmers/다단계%20칫솔%20판매.swift)
+| Programmers | 12904 | [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) | Swift | [:punch:](Programmers/가장%20긴%20팰린드롬.swift)
+| Programmers | 12987 | [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | Swift | [:punch:](Programmers/숫자%20게임.swift)
+| Programmers | 68646 | [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646) | Swift | [:punch:](Programmers/풍선%20터트리기.swift)
+| Programmers | 42628 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | Swift | [:punch:](Programmers/이중우선순위큐.swift)
+
+
 
 ## BaekJoon
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
