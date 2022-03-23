@@ -8,17 +8,33 @@
 import Foundation
 
 func getSmallestNumberArray(_ n: Int, _ k: Int) -> [Int] {
-    var numbers = Array(repeating: 1, count: n)
-    var idx = n - 1
-    var k = k - n
+    var answer = Array(repeating: 1, count: n)
+    let stuffing = (k - n) / 26
     
-    while(k > 0){
-        numbers[idx] += min(k, 25)
-        idx -= 1
-        k -= min(k, 25)
+    for i in 0..<stuffing {
+        answer[i] = 26
     }
     
-    return numbers
+    var currentIndex = stuffing
+    var sum = answer.reduce(0) { $0 + $1 }
+    
+    while sum != k {
+        if sum < k {
+            if k - sum >= 26 {
+                answer[currentIndex] = 26
+            }
+            else {
+                answer[currentIndex] = k - sum + 1
+            }
+        }
+        else if sum > k {
+            answer[currentIndex] -= sum - k
+        }
+        sum += answer[currentIndex] - 1
+        currentIndex += 1
+    }
+    
+    return answer.reversed()
 }
 
 func getSmallestString(_ n: Int, _ k: Int) -> String {
