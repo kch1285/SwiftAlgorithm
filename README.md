@@ -6,7 +6,9 @@
 
 
 ## Programmers
-> ### Level 1
+<details>
+<summary>Level 1</summary>
+  
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |
 | Programmers | 77484 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | Swift | [:punch:](Programmers/로또의%20최고%20순위와%20최저%20순위.swift)
@@ -19,9 +21,13 @@
 | Programmers | 76501 | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | Swift | [:punch:](Programmers/음양%20더하기.swift)
 | Programmers | 92334 | [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | Swift | [:punch:](Programmers/신고%20결과%20받기.swift)
 | Programmers | 12977 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | Swift | [:punch:](Programmers/소수%20만들기.swift)
+| Programmers | 12954 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | Swift | [:punch:](Programmers/x만큼%20간격이%20있는%20n개의%20숫자.swift)
+| Programmers | 12948 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | Swift | [:punch:](Programmers/핸드폰%20번호%20가리기.swift)
+</details>
 
-
-> ### Level 2
+<details>
+<summary>Level 2</summary>
+  
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |
 | Programmers | 12978 | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | Swift | [:punch:](Programmers/배달.swift)
@@ -52,10 +58,11 @@
 | Programmers | 70129 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) | Swift | [:punch:](Programmers/이진%20변환%20반복하기.swift)
 | Programmers | 12980 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | Swift | [:punch:](Programmers/점프와%20순간%20이동.swift)
 | Programmers | 42842 | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | Swift | [:punch:](Programmers/카펫.swift)
-
-
-
-> ### Level 3
+</details>
+  
+<details>
+<summary>Level 3</summary>
+  
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |
 | Programmers | 43238 | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | Swift | [:punch:](Programmers/입국심사.swift)
@@ -67,10 +74,34 @@
 | Programmers | 12987 | [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | Swift | [:punch:](Programmers/숫자%20게임.swift)
 | Programmers | 68646 | [풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646) | Swift | [:punch:](Programmers/풍선%20터트리기.swift)
 | Programmers | 42628 | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | Swift | [:punch:](Programmers/이중우선순위큐.swift)
+</details>
 
+## LeetCode
+<details>
+<summary>Easy</summary>
+  
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
+| :---: | :---: | :---: | :---: | :---: |
+| LeetCode | 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | Swift | [:punch:](LeetCode/Verifying%20an%20Alien%20Dictionary.swift)
+| LeetCode | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Swift | [:punch:](LeetCode/Merge%20Sorted%20Array.swift)
+</details>
 
+<details>
+<summary>Medium</summary>
+  
+| 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
+| :---: | :---: | :---: | :---: | :---: |
+| LeetCode | 322 | [Coin Change](https://leetcode.com/problems/coin-change) | Swift | [:punch:](LeetCode/Coin%20Change.swift)
+| LeetCode | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value) | Swift | [:punch:](LeetCode/Smallest%20String%20With%20A%20Given%20Numeric%20Value.swift)
+| LeetCode | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling) | Swift | [:punch:](LeetCode/Two%20City%20Scheduling.swift)
+| LeetCode | 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator) | Swift | [:punch:](LeetCode/Broken%20Calculator.swift)
+</details>
 
-## BaekJoon
+<!-- ## BaekJoon
+<details>
+<summary></summary>
 | 문제 출처 | 문제 번호 | 문제 이름 | 풀이 언어 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |
 | BaekJoon | 1012 | [유기농 배추](https://www.acmicpc.net/problem/1012) | Swift | [:punch:](BaekJoon/유기농%20배추.swift)
+
+</details> -->
